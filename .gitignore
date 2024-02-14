@@ -5,6 +5,10 @@
 # env
 .env
 
+# testing keys
+private_key.*
+public_key.*
+
 # Logs
 logs
 *.log
